@@ -1,0 +1,6 @@
+framework module AsyncSocket {
+  umbrella header "AsyncSocket-umbrella.h"
+
+  export *
+  module * { export * }
+}
